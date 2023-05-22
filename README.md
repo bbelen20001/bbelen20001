@@ -12,5 +12,6 @@ Hola 👋, soy Brenda Belen
 habilidades javascript
 
 🗣️  °Si quieres saber más de mí, no lo dudes y ponte en contacto conmigo.😊
+💌📧 belenbrenda10@gmail.com 
 
 
