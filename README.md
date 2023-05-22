@@ -10,6 +10,7 @@ Hola 👋, soy Brenda Belen
 
 🔥 ¿Quieres echar un vistazo a mis proyectos? 
 habilidades javascript
+
 🗣️  °Si quieres saber más de mí, no lo dudes y ponte en contacto conmigo.😊
 
 
