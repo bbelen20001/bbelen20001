@@ -1,13 +1,13 @@
+Hola 👋, soy Brenda Belen
 
-Hi there 👋, I'm Brenda Belen 
+----> Soy un apasionada de la tecnología y el desarrollo FrontEnd, me encanta aprender, especialmente cuando se trata de tecnología 🔭
 
-----> I am passionate about technology and FrontEnd development,I love learning, especially when it comes to technology 🔭 
+📖 Desarrolladora Full Stack en Soy Henry Bootcamp
 
-📖 Full Stack Developer at Soy Henry Bootcamp 
+🌍 Estoy radicada en Venezuela
 
-🌍 I am based in Venezuela 
+❓ Pregúntame sobre cualquier cosa relacionada con Front end con React (Redux, APIs, SSR)
 
-❓ Ask me about anything related to Front end with React (Redux, APIs, SSR) 
-
-🔥 Want to take a look at my projects? Javascript skill :)
+🔥 ¿Quieres echar un vistazo a mis proyectos? 
+habilidades javascript;
 -->
