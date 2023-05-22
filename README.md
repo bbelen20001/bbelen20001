@@ -9,5 +9,7 @@ Hola 👋, soy Brenda Belen
 ❓ Pregúntame sobre cualquier cosa relacionada con Front end con React (Redux, APIs, SSR)
 
 🔥 ¿Quieres echar un vistazo a mis proyectos? 
-habilidades javascript;
--->
+habilidades javascript
+🗣️  °Si quieres saber más de mí, no lo dudes y ponte en contacto conmigo.😊
+
+
