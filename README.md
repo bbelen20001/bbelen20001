@@ -4,8 +4,7 @@ Hola 👋, soy Brenda Belen
 
 📖 Desarrolladora Full Stack en Soy Henry Bootcamp
 
-🌍 Estoy radicada en Venezuela
-
+🌍 Estoy radicada en Colombia
 ❓ Pregúntame sobre cualquier cosa relacionada con Front end con React (Redux, APIs, SSR)
 
 🔥 ¿Quieres echar un vistazo a mis proyectos? 
